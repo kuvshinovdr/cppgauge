@@ -32,7 +32,7 @@ int main()
         } else {
             cout << "No roots.\n";
         }
-        
+
         return 0;
     } else {
         cout << "Failed to parse a, b, c.\n";
